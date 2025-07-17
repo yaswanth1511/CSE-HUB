@@ -123,7 +123,7 @@ const Index = () => {
               whileHover={{ scale: 1.05 }}
             >
               <span className="text-lg sm:text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                CSE Hub
+                StudySync
               </span>
             </motion.div>
 
